@@ -7,7 +7,7 @@ Getting Started:<br>
 
 ## Summer 2022 Class
 
-### Textbook:  Murach's Python for Data Analysis and other resources
+### Textbook:  Murach's Python for Data Analysis (and other resources)
 
 ### Markdown Tutorial <a href="https://agea.github.io/tutorial.md/">Markdown Tutorial</a>
 <br>
