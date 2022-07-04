@@ -1,21 +1,22 @@
-## Data-Mining
-This site supports coding examples and homework for Introduction to Data Mining (CIS 3902)at Catawba College.<br>
+## ITCS 3162 Data-Mining
+This site supports coding examples and homework for Data Mining (ITCS 3162)at UNC Charlotte.<br>
 Getting Started:<br>
 1.  Create and verify a Github Account.<br>
 2.  Sign in to Github.<br>
-3.  Follow instructions in Blackboard for the weekly assignments for class on https://github.com/catawba-data-mining/CIS-3902-Data-Mining/blob/main/README.md.<br>
+3.  Follow instructions in Canvas for Getting Started and the weekly assignments for class. The Canvas instructions and assignments will include links, as appropriate, to this Github repository.<br>
 
-## SPRING 2022 Class
+## Summer 2022 Class
 
-### Textbook:  Murach's Python for Data Analysis
+### Textbook:  Murach's Python for Data Analysis and other resources
 
 ### Markdown Tutorial <a href="https://agea.github.io/tutorial.md/">Markdown Tutorial</a>
 <br>
-### Add tocolab after github in the URL to open in COLAB
-### if input is accessed via URL, no changes are needed to pd.read
+### Opening Notebooks in Google Colab for Cloud Jupyter Access:  Open URL, in address bar Add tocolab after github in the URL to open in COLAB<br>
+### files can be uploaded to Colab, the file path may need to be altered (no directory is needed)
+### if input is accessed via URL, no changes are needed to Python pd.read
 
 <a name="tocb"></a>
-### Table of Contents  (chapter content will be released each week)
+### Table of Contents  (Assignments in Canvas will detail the specific assignments)
 ### Click on the link to access the assignment<br>
 1. <a href="https://github.com/catawba-data-mining/CIS-3902-Data-Mining/blob/main/ch01_examples.ipynb">Chapter 1 Examples</a>
 2. <a href="https://github.com/catawba-data-mining/CIS-3902-Data-Mining/blob/main/ch02_examples.ipynb">Chapter 2 Examples</a><br>
@@ -41,10 +42,9 @@ Getting Started:<br>
 
 ### The End
 
-
 #### SPRING 2021 Class
 
-TEXTBOOKS:  The texts for the class are provided by UC Berkeley:  
+Optional:  UC Berkeley Resources  
 
 Data 8 Text: 
 https://www.inferentialthinking.com/chapters/intro
