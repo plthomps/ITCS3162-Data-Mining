@@ -5,8 +5,7 @@ Follow instructions in Canvas for Getting Started and the weekly assignments for
 
 ## Summer 2022 Class
 
-<br>
-### Most Notebooks will open in Google Colab. To download for local use (Anaconda), in Colab select File . . . Download . . . .ipynb file.
+## Most Notebooks will open in Google Colab. To download for local use (Anaconda), in Colab select File . . . Download . . . .ipynb file.
 
 <a name="tocb"></a>
 ### Table of Contents  (Assignments in Canvas will detail the specific assignments)
