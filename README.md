@@ -6,9 +6,7 @@ Follow instructions in Canvas for Getting Started and the weekly assignments for
 ## Summer 2022 Class
 
 <br>
-### Most Notebooks will open in Google Colab. Notebooks can be for Cloud Jupyter Access:  Open URL, in address bar Add tocolab after github in the URL to open in COLAB<br>
-### files can be uploaded to Colab, the file path may need to be altered (no directory is needed)
-### if input is accessed via URL, no changes are needed to Python pd.read
+### Most Notebooks will open in Google Colab. 
 
 <a name="tocb"></a>
 ### Table of Contents  (Assignments in Canvas will detail the specific assignments)
