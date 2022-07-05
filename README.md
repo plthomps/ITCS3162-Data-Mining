@@ -11,9 +11,9 @@ Follow instructions in Canvas for Getting Started and the weekly assignments for
 <a name="tocb"></a>
 ### Table of Contents  (Assignments in Canvas will detail the specific assignments)
 ### Click on the link to access the assignment<br>
-1. <a href="https://github.com/catawba-data-mining/CIS-3902-Data-Mining/blob/main/ch01_examples.ipynb">Chapter 1 Examples</a>
-2. <a href="https://github.com/catawba-data-mining/CIS-3902-Data-Mining/blob/main/ch02_examples.ipynb">Chapter 2 Examples</a><br>
-   <a href="https://github.com/catawba-data-mining/CIS-3902-Data-Mining/blob/main/ex_2-1_mortality.ipynb">Chapter 2 Lab</a>
+1. <a href="https://githubtocolab.com/plthomps/ITCS3162-Data-Mining/blob/main/ch01_examples.ipynb">Chapter 1 Examples</a>
+2. <a href="https://githubtocolab.com/catawba-data-mining/CIS-3902-Data-Mining/blob/main/ch02_examples.ipynb">Chapter 2 Examples</a><br>
+   <a href="https://githubtocolab.com/catawba-data-mining/CIS-3902-Data-Mining/blob/main/ex_2-1_mortality.ipynb">Chapter 2 Lab</a>
 3. <a href="https://github.com/catawba-data-mining/CIS-3902-Data-Mining/blob/main/ch03_examples.ipynb">Chapter 3 Examples</a>
 4. <a href="https://github.com/catawba-data-mining/CIS-3902-Data-Mining/blob/main/ch04_examples.ipynb">Chapter 4 Examples</a>
 5. <a href="https://githubtocolab.com/catawba-data-mining/CIS-3902-Data-Mining/blob/main/ChallengeLabDataViz.ipynb">Chap. 1 to 4 - Challenge Lab Data Viz</a><br>
