@@ -1,9 +1,7 @@
 ## ITCS 3162 Data-Mining
 This site supports coding examples and homework for Data Mining (ITCS 3162) at UNC Charlotte.<br>
 Getting Started:<br>
-1.  Create and verify a Github Account.<br>
-2.  Sign in to Github.<br>
-3.  Follow instructions in Canvas for Getting Started and the weekly assignments for class. The Canvas instructions and assignments will include links, as appropriate, to this Github repository.<br>
+Follow instructions in Canvas for Getting Started and the weekly assignments for class. The Canvas instructions and assignments will include links, as appropriate, to this Github repository.<br>
 
 ## Summer 2022 Class
 
