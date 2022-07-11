@@ -15,7 +15,7 @@ Follow instructions in Canvas for Getting Started and the weekly assignments for
    <a href="https://githubtocolab.com/plthomps/ITCS3162-Data-Mining/blob/main/ex_2-1_mortality.ipynb">Chapter 2 Lab</a>
 3. <a href="https://githubtocolab.com/plthomps/ITCS3162-Data-Mining/blob/main/ch03_examples.ipynb">Chapter 3 Examples</a>
 4. <a href="https://githubtocolab.com/plthomps/ITCS3162-Data-Mining/blob/main/ch04_examples.ipynb">Chapter 4 Examples</a>
-5. <a href="https://githubtocolab.com/plthomps/ITCS3162-Data-Mining/blob/main/ChallengeLabDataViz.ipynb">Chap. 1 to 4 - Challenge Lab Data Viz</a>
+5. <a href="https://githubtocolab.com/plthomps/ITCS3162-Data-Mining/blob/main/ChallengeLabDataVis.ipynb">Chap. 1 to 4 - Challenge Lab Data Viz</a>
 6. <a href="https://githubtocolab.com/plthomps/ITCS3162-Data-Mining/blob/main/ch05_examples.ipynb">Chapter 5 Examples</a>
 7. <a href="https://githubtocolab.com/plthomps/ITCS3162-Data-Mining/blob/main/ch06_examples.ipynb">Chapter 6 Examples</a>
 8. <a href="https://githubtocolab.com/plthomps/ITCS3162-Data-Mining/blob/main/ex_6-1_polls.ipynb">Chapter 6 Exercise</a>
