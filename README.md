@@ -29,7 +29,6 @@ Follow instructions in Canvas for Getting Started and the weekly assignments for
 16. <a href="https://githubtocolab.com/plthomps/ITCS3162-Data-Mining/blob/main/ch11_examples.ipynb">Chapter 11 Example</a>
 17. <a href="https://githubtocolab.com/plthomps/ITCS3162-Data-Mining/blob/main/ex_11-1_fish.ipynb">Chapter 11 Lab Exercise</a>
 18. <a href="https://githubtocolab.com/plthomps/ITCS3162-Data-Mining/blob/main/SUM_22_Lab_Deliverable_1_Detecting_Shark_Presence.ipynb">Week 5 Lab DEL 1</a>
-19. <a href="https://githubtocolab.com/plthomps/ITCS3162-Data-Mining/blob/main/SPR_22_Project_Deliverable_2_Association_Rules.ipynb">PROJECT DEL 2</a>
 
 <br>
 
